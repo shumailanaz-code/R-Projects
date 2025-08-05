@@ -46,9 +46,10 @@ The analysis was conducted using **R language in RStudio**, leveraging various s
 - **Statistical Methods**:
   - Descriptive Statistics
   - Pearson Correlation
-  - t-tests and ANOVA
+  - Kruskal-Wallis Test
+  - Wilcoxon Rank Sum Test
   - Linear Regression
-  - Time Series Forecasting (e.g., ARIMA)
+  - Time Series Forecasting (Holt Winters)
 
 ---
 
